@@ -1,0 +1,14 @@
+{
+"companyName": "FoR3D",
+"productName": "Kotonoha4th",
+"dataUrl": "kotonoha4th.data.unityweb",
+"asmCodeUrl": "kotonoha4th.asm.code.unityweb",
+"asmMemoryUrl": "kotonoha4th.asm.memory.unityweb",
+"asmFrameworkUrl": "kotonoha4th.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "kotonoha4th.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
